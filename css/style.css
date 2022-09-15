@@ -1,0 +1,30 @@
+body{
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+th{
+    height: 3em;
+}
+
+#verticalCol{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    padding: 2em;
+}
+
+table, th, td{
+    border:2px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    border:5px;
+    border-radius: 10px;
+}
+
+td, th{
+    width: 11%;
+    text-align: center;
+}
